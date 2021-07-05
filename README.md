@@ -6,6 +6,7 @@ There are separate branches for each computer vision (CV) task - one for image c
 
 ### Prerequisites
 Create an anaconda environment with the required dependencies using the following command
+
 `conda create --name <env> --file requirements.txt`
 ### Installation
 
