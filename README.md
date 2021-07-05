@@ -5,7 +5,7 @@ Computer vision development for WSS MP ropes team.
 There are separate branches for each computer vision (CV) task - one for image classification (image_classification) and one for object detection (objec_detection).
 
 ### Prerequisites
-``test`
+`test`
 ### Installation
 
 ### Usage
