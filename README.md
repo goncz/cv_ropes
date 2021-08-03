@@ -12,5 +12,10 @@ Create an anaconda environment with the required dependencies using the followin
 
 ### Usage
 
+## Labeling images
+- Detections will be sensitive, be aware of this when labeling images.
+- Keep the ground truth boxes as "tight" as possible to the object. 
+- Include objects at different angles, lighting, size, etc., to help generalizing 
+
 
 ### LabelImg
