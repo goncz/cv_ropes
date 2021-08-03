@@ -16,6 +16,7 @@ Create an anaconda environment with the required dependencies using the followin
 - Detections will be sensitive, be aware of this when labeling images.
 - Keep the ground truth boxes as "tight" as possible to the object. 
 - Include objects at different angles, lighting, size, etc., to help generalizing 
+- Try to keep an even amount of images per class in the training dataset
 
 
 ### LabelImg
