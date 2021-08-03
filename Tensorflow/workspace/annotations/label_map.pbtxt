@@ -1,0 +1,8 @@
+item { 
+	name:'Rope'
+	id:1
+}
+item { 
+	name:'Abrasion'
+	id:2
+}
